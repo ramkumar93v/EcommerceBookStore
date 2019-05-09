@@ -1,0 +1,3 @@
+export const NEW_ADDRESS='NEW_ADDRESS'
+export const EDIT_ADDRESS='EDIT_ADDRESS'
+export const GET_ADDRESS='GET_ADDRESS'
